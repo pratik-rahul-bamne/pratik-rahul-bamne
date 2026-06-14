@@ -2,7 +2,7 @@
 
 # 🎯 Pratik Rahul Bamne
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student;Aspiring+AI+%26+Data+Engineer;Building+Intelligent+Solutions;Python+%7C+ML+%7C+Data+Engineering;LLMs+%7C+RAG+%7C+Agentic+AI)](https://github.com/pratik-rahul-bamne)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student;Aspiring+AI+%26+Data+Engineer;Machine+Learning+Enthusiast;Building+Intelligent+Solutions)](https://github.com/pratik-rahul-bamne)
 
 **Transforming data into actionable insights through Machine Learning, AI, and Data Engineering**
 
@@ -71,49 +71,145 @@
 
 ---
 
-## 📌 Featured Projects
+## 📌 Public Repositories
 
-### 🩺 [Heart Disease Prediction System](https://github.com/pratik-rahul-bamne)
-**Machine Learning & Deep Learning for Healthcare**
-- Implemented multiple ML algorithms: Logistic Regression, SVM, KNN, Gradient Boosting
-- Built PyTorch neural network models for high accuracy prediction
+### 🎯 Featured Projects
+
+#### 🩺 [Predictive-Modelling-of-Heart-Disease](https://github.com/pratik-rahul-bamne/Predictive-Modelling-of-Heart-Disease)
+Machine Learning & Deep Learning for Healthcare
+- Multiple ML algorithms: Logistic Regression, SVM, KNN, Gradient Boosting
+- PyTorch neural network models for prediction
 - Comprehensive model comparison and performance evaluation
 - **Tech Stack:** Python, Scikit-learn, PyTorch, Pandas, NumPy
 
-### 🌾 [Precision Crop Analytics](https://github.com/pratik-rahul-bamne)
-**AI-Powered Crop Yield Prediction**
+#### 🌾 [Precision_Crop_Recommendation_Project](https://github.com/pratik-rahul-bamne/Precision_Crop_Recommendation_Project)
+AI-Powered Crop Yield Prediction
 - Predictive analytics for agricultural optimization
 - Integrated weather, soil, and geographic data
 - Data-driven insights for smart farming
 - **Tech Stack:** Python, Machine Learning, Data Analysis
 
-### 🚜 [HarvestSense](https://github.com/pratik-rahul-bamne)
-**Agricultural Intelligence Platform**
+#### 🚜 [HarvestSense](https://github.com/pratik-rahul-bamne/HarvestSense)
+Agricultural Intelligence Platform
 - AI-powered analytics for crop insights
 - Smart farming decision support system
 - Real-time data visualization and reporting
 - **Tech Stack:** Python, Flask/Streamlit, ML Models
 
-### 🎯 [AI Career Path Advisor](https://github.com/pratik-rahul-bamne)
-**NLP-Based Career Recommendation System**
-- Personalized career guidance using ML & NLP
-- Student assessment and recommendation engine
-- Intelligent matching algorithm
-- **Tech Stack:** Python, NLP, Machine Learning
-
-### 🤖 [Agentic RAG Academic Assistant](https://github.com/pratik-rahul-bamne)
-**LLM-Powered Intelligent Chatbot**
-- Retrieval-Augmented Generation (RAG) implementation
-- AI-powered academic support and knowledge assistant
-- Advanced prompt engineering & agentic workflows
-- **Tech Stack:** LLMs, Python, RAG Framework
-
-### 📅 [Automatic Timetable Generator](https://github.com/pratik-rahul-bamne)
-**Diploma Major Project - Intelligent Scheduling**
+#### 📅 [AUTOMATIC-TIMETABLE-GENERATOR](https://github.com/pratik-rahul-bamne/AUTOMATIC-TIMETABLE-GENERATOR)
+Diploma Major Project - Intelligent Scheduling
 - Automated constraint-based scheduling solution
 - Optimization algorithm for resource allocation
 - Full-stack implementation with database integration
-- **Tech Stack:** Java/Python, SQL, Algorithms
+- **Tech Stack:** PHP, SQL, Algorithms
+
+#### 🤖 [AI-RESUME-MAKER](https://github.com/pratik-rahul-bamne/AI-RESUME-MAKER)
+AI-Powered Resume Generation System
+- Intelligent resume building with AI suggestions
+- Career-focused content recommendations
+- **Tech Stack:** JavaScript, AI/ML
+
+#### 💼 [AI-Based-Digital-Municipal-Corporation-Management-System](https://github.com/pratik-rahul-bamne/AI-Based-Digital-Municipal-Corporation-Management-System)
+Smart City Management Platform
+- AI-powered municipal services management
+- Data-driven decision making for urban administration
+- **Tech Stack:** JavaScript, AI/ML
+
+#### 💎 [AI-Powered-Jewellery-Shop-Management-System](https://github.com/pratik-rahul-bamne/AI-Powered-Jewellery-Shop-Management-System)
+Intelligent Retail Management System
+- AI-enhanced inventory and sales management
+- Business intelligence for retail operations
+- **Tech Stack:** JavaScript, AI/ML
+
+#### 💰 [av-electrical-services-billing-system](https://github.com/pratik-rahul-bamne/av-electrical-services-billing-system)
+Electrical Services Billing Platform
+- Automated billing and invoice generation
+- Service management system
+- **Tech Stack:** HTML, CSS, JavaScript
+
+#### 💳 [goldcoin-finance-billing-system-desktop-app](https://github.com/pratik-rahul-bamne/goldcoin-finance-billing-system-desktop-app)
+Finance Management Desktop Application
+- Desktop-based billing and financial tracking
+- Comprehensive financial reporting
+- **Tech Stack:** HTML, JavaScript, Desktop Development
+
+#### 🍽️ [Intelligent-Mess-Management-System](https://github.com/pratik-rahul-bamne/Intelligent-Mess-Management-System)
+Smart Mess/Cafeteria Management
+- Intelligent meal planning and cost management
+- Student-friendly mess administration
+- **Tech Stack:** HTML, CSS, JavaScript
+
+#### 📰 [grouply-news-platform](https://github.com/pratik-rahul-bamne/grouply-news-platform)
+Community News and Information Platform
+- Social news aggregation and sharing
+- Community-driven content platform
+- **Tech Stack:** JavaScript, Web Development
+
+#### 💍 [VivahBandh](https://github.com/pratik-rahul-bamne/VivahBandh)
+Event Management Platform
+- Wedding and event planning system
+- Vendor and guest management
+- **Tech Stack:** Web Technologies
+
+### 📚 Learning & Practice Projects
+
+#### 📊 [Data-Science](https://github.com/pratik-rahul-bamne/Data-Science)
+Comprehensive Data Science Projects Collection
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis & Visualization
+- **Tech Stack:** Python, Jupyter Notebook, Pandas, Matplotlib
+
+#### 🧠 [machine-learning-practicals](https://github.com/pratik-rahul-bamne/machine-learning-practicals)
+ML Algorithms Implementation & Practice
+- Supervised and Unsupervised Learning
+- Model Training & Evaluation
+- **Tech Stack:** Python, Jupyter Notebook, Scikit-learn
+
+#### 🤖 [Edunet](https://github.com/pratik-rahul-bamne/Edunet)
+Educational Data Science Projects
+- Learning analytics and insights
+- Educational technology applications
+- **Tech Stack:** Python, Jupyter Notebook
+
+#### 💻 [DSA](https://github.com/pratik-rahul-bamne/DSA)
+Data Structures & Algorithms
+- Comprehensive algorithm implementations
+- Competitive programming practice
+- **Tech Stack:** Python
+
+#### 🎓 [myfirstmlproject](https://github.com/pratik-rahul-bamne/myfirstmlproject)
+First Machine Learning Project - NxtWave Academy
+- Foundational ML model study
+- Project-based learning
+- **Tech Stack:** Python, Machine Learning
+
+#### 🏫 [JJMCOE](https://github.com/pratik-rahul-bamne/JJMCOE)
+College Project Repository
+- Educational content and projects
+- **Tech Stack:** HTML, CSS, Web Technologies
+
+#### 🎨 [computer-animation-education](https://github.com/pratik-rahul-bamne/computer-animation-education)
+Computer Animation Learning Project
+- Animation concepts and applications
+- Visual design and rendering
+- **Tech Stack:** CSS, Web Technologies
+
+#### 🎓 [PBDevPortfollio](https://github.com/pratik-rahul-bamne/PBDevPortfollio)
+Developer Portfolio Showcase
+- Professional portfolio presentation
+- Project showcases and achievements
+
+#### 🚀 [pratik-bamane-portfolio](https://github.com/pratik-rahul-bamne/pratik-bamane-portfolio)
+Modern Development Portfolio
+- TypeScript-based portfolio application
+- Responsive design and modern web technologies
+- **Tech Stack:** TypeScript, React, Web Development
+
+#### 🏆 [SMART-INDIA-HACKATHON-2025](https://github.com/pratik-rahul-bamne/SMART-INDIA-HACKATHON-2025)
+Smart India Hackathon 2025 Project
+- Innovative solution development
+- Real-world problem solving
+- **Tech Stack:** Full-Stack Development
 
 ---
 
@@ -150,6 +246,7 @@
 - ✅ Data Analytics & Visualization
 - ✅ SQL Database Design & Management
 - 🏆 Competitive Programming (LeetCode, HackerRank, CodeChef)
+- 🏆 Smart India Hackathon 2025 Participant
 
 ---
 
@@ -175,7 +272,7 @@
 
 **Let's build something amazing together!**
 
-[💌 Get in Touch](#) | [📂 Explore Projects](https://github.com/pratik-rahul-bamne?tab=repositories) | [📖 Check My Work](https://github.com/pratik-rahul-bamne?tab=stars)
+[💌 Get in Touch](https://linkedin.com/in/pratik-bamane-48a974330) | [📂 Explore Projects](https://github.com/pratik-rahul-bamne?tab=repositories) | [📖 Check My Work](https://github.com/pratik-rahul-bamne?tab=stars)
 
 ---
 
