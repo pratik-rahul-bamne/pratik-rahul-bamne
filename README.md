@@ -2,7 +2,7 @@
 
 # 🎯 Pratik Rahul Bamne
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student;Aspiring+AI+%26+Data+Engineer;Machine+Learning+Enthusiast;Building+Intelligent+Solutions)](https://github.com/pratik-rahul-bamne)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student;Aspiring+AI+%26+Data+Engineer;Building+Real-World+ML+Solutions)](https://git.io/typing-svg)
 
 **Transforming data into actionable insights through Machine Learning, AI, and Data Engineering**
 
@@ -73,7 +73,37 @@
 
 ## 📌 Public Repositories
 
-### 🎯 Featured Projects
+### 📊 Complete Repository Directory (23 Total)
+
+| # | Repository | Language | Description |
+|---|---|---|---|
+| 1 | [🩺 Predictive-Modelling-of-Heart-Disease](https://github.com/pratik-rahul-bamne/Predictive-Modelling-of-Heart-Disease) | HTML | Machine Learning & Deep Learning for Healthcare |
+| 2 | [🌾 Precision_Crop_Recommendation_Project](https://github.com/pratik-rahul-bamne/Precision_Crop_Recommendation_Project) | HTML | AI-Powered Crop Yield Prediction & Agriculture Analytics |
+| 3 | [🚜 HarvestSense](https://github.com/pratik-rahul-bamne/HarvestSense) | Jupyter Notebook | Agricultural Intelligence Platform for Smart Farming |
+| 4 | [📅 AUTOMATIC-TIMETABLE-GENERATOR](https://github.com/pratik-rahul-bamne/AUTOMATIC-TIMETABLE-GENERATOR) | PHP | Diploma Major Project - Intelligent Scheduling System |
+| 5 | [🤖 AI-RESUME-MAKER](https://github.com/pratik-rahul-bamne/AI-RESUME-MAKER) | JavaScript | AI-Powered Resume Generation System |
+| 6 | [🏢 AI-Based-Digital-Municipal-Corporation-Management-System](https://github.com/pratik-rahul-bamne/AI-Based-Digital-Municipal-Corporation-Management-System) | JavaScript | Smart City Management Platform with AI |
+| 7 | [💎 AI-Powered-Jewellery-Shop-Management-System](https://github.com/pratik-rahul-bamne/AI-Powered-Jewellery-Shop-Management-System) | JavaScript | Intelligent Retail Management System |
+| 8 | [💰 av-electrical-services-billing-system](https://github.com/pratik-rahul-bamne/av-electrical-services-billing-system) | CSS | Electrical Services Billing Platform |
+| 9 | [💳 goldcoin-finance-billing-system-desktop-app](https://github.com/pratik-rahul-bamne/goldcoin-finance-billing-system-desktop-app) | HTML | Desktop Finance Management & Billing Application |
+| 10 | [🍽️ Intelligent-Mess-Management-System](https://github.com/pratik-rahul-bamne/Intelligent-Mess-Management-System) | HTML | Smart Mess/Cafeteria Management System |
+| 11 | [📰 grouply-news-platform](https://github.com/pratik-rahul-bamne/grouply-news-platform) | JavaScript | Community News & Information Platform |
+| 12 | [💍 VivahBandh](https://github.com/pratik-rahul-bamne/VivahBandh) | — | Event Management & Wedding Planning Platform |
+| 13 | [📊 Data-Science](https://github.com/pratik-rahul-bamne/Data-Science) | Jupyter Notebook | Comprehensive Data Science Projects & EDA Collection |
+| 14 | [🧠 machine-learning-practicals](https://github.com/pratik-rahul-bamne/machine-learning-practicals) | Jupyter Notebook | ML Algorithms Implementation & Model Training |
+| 15 | [🎓 Edunet](https://github.com/pratik-rahul-bamne/Edunet) | Jupyter Notebook | Educational Data Science Projects |
+| 16 | [💻 DSA](https://github.com/pratik-rahul-bamne/DSA) | Python | Data Structures & Algorithms Implementation |
+| 17 | [🎓 myfirstmlproject](https://github.com/pratik-rahul-bamne/myfirstmlproject) | — | First Machine Learning Project - NxtWave Academy |
+| 18 | [🏫 JJMCOE](https://github.com/pratik-rahul-bamne/JJMCOE) | HTML | College Project Repository |
+| 19 | [🎨 computer-animation-education](https://github.com/pratik-rahul-bamne/computer-animation-education) | CSS | Computer Animation Learning Project |
+| 20 | [🎓 PBDevPortfollio](https://github.com/pratik-rahul-bamne/PBDevPortfollio) | — | Developer Portfolio Showcase |
+| 21 | [🚀 pratik-bamane-portfolio](https://github.com/pratik-rahul-bamne/pratik-bamane-portfolio) | TypeScript | Modern Development Portfolio - TypeScript |
+| 22 | [👤 pratik-rahul-bamne](https://github.com/pratik-rahul-bamne/pratik-rahul-bamne) | — | GitHub Profile Repository |
+| 23 | [🏆 SMART-INDIA-HACKATHON-2025](https://github.com/pratik-rahul-bamne/SMART-INDIA-HACKATHON-2025) | — | Smart India Hackathon 2025 Innovation Project |
+
+---
+
+### 🎯 Featured Projects (Highlighted)
 
 #### 🩺 [Predictive-Modelling-of-Heart-Disease](https://github.com/pratik-rahul-bamne/Predictive-Modelling-of-Heart-Disease)
 Machine Learning & Deep Learning for Healthcare
@@ -115,41 +145,7 @@ Smart City Management Platform
 - Data-driven decision making for urban administration
 - **Tech Stack:** JavaScript, AI/ML
 
-#### 💎 [AI-Powered-Jewellery-Shop-Management-System](https://github.com/pratik-rahul-bamne/AI-Powered-Jewellery-Shop-Management-System)
-Intelligent Retail Management System
-- AI-enhanced inventory and sales management
-- Business intelligence for retail operations
-- **Tech Stack:** JavaScript, AI/ML
-
-#### 💰 [av-electrical-services-billing-system](https://github.com/pratik-rahul-bamne/av-electrical-services-billing-system)
-Electrical Services Billing Platform
-- Automated billing and invoice generation
-- Service management system
-- **Tech Stack:** HTML, CSS, JavaScript
-
-#### 💳 [goldcoin-finance-billing-system-desktop-app](https://github.com/pratik-rahul-bamne/goldcoin-finance-billing-system-desktop-app)
-Finance Management Desktop Application
-- Desktop-based billing and financial tracking
-- Comprehensive financial reporting
-- **Tech Stack:** HTML, JavaScript, Desktop Development
-
-#### 🍽️ [Intelligent-Mess-Management-System](https://github.com/pratik-rahul-bamne/Intelligent-Mess-Management-System)
-Smart Mess/Cafeteria Management
-- Intelligent meal planning and cost management
-- Student-friendly mess administration
-- **Tech Stack:** HTML, CSS, JavaScript
-
-#### 📰 [grouply-news-platform](https://github.com/pratik-rahul-bamne/grouply-news-platform)
-Community News and Information Platform
-- Social news aggregation and sharing
-- Community-driven content platform
-- **Tech Stack:** JavaScript, Web Development
-
-#### 💍 [VivahBandh](https://github.com/pratik-rahul-bamne/VivahBandh)
-Event Management Platform
-- Wedding and event planning system
-- Vendor and guest management
-- **Tech Stack:** Web Technologies
+---
 
 ### 📚 Learning & Practice Projects
 
@@ -165,51 +161,11 @@ ML Algorithms Implementation & Practice
 - Model Training & Evaluation
 - **Tech Stack:** Python, Jupyter Notebook, Scikit-learn
 
-#### 🤖 [Edunet](https://github.com/pratik-rahul-bamne/Edunet)
-Educational Data Science Projects
-- Learning analytics and insights
-- Educational technology applications
-- **Tech Stack:** Python, Jupyter Notebook
-
 #### 💻 [DSA](https://github.com/pratik-rahul-bamne/DSA)
 Data Structures & Algorithms
 - Comprehensive algorithm implementations
 - Competitive programming practice
 - **Tech Stack:** Python
-
-#### 🎓 [myfirstmlproject](https://github.com/pratik-rahul-bamne/myfirstmlproject)
-First Machine Learning Project - NxtWave Academy
-- Foundational ML model study
-- Project-based learning
-- **Tech Stack:** Python, Machine Learning
-
-#### 🏫 [JJMCOE](https://github.com/pratik-rahul-bamne/JJMCOE)
-College Project Repository
-- Educational content and projects
-- **Tech Stack:** HTML, CSS, Web Technologies
-
-#### 🎨 [computer-animation-education](https://github.com/pratik-rahul-bamne/computer-animation-education)
-Computer Animation Learning Project
-- Animation concepts and applications
-- Visual design and rendering
-- **Tech Stack:** CSS, Web Technologies
-
-#### 🎓 [PBDevPortfollio](https://github.com/pratik-rahul-bamne/PBDevPortfollio)
-Developer Portfolio Showcase
-- Professional portfolio presentation
-- Project showcases and achievements
-
-#### 🚀 [pratik-bamane-portfolio](https://github.com/pratik-rahul-bamne/pratik-bamane-portfolio)
-Modern Development Portfolio
-- TypeScript-based portfolio application
-- Responsive design and modern web technologies
-- **Tech Stack:** TypeScript, React, Web Development
-
-#### 🏆 [SMART-INDIA-HACKATHON-2025](https://github.com/pratik-rahul-bamne/SMART-INDIA-HACKATHON-2025)
-Smart India Hackathon 2025 Project
-- Innovative solution development
-- Real-world problem solving
-- **Tech Stack:** Full-Stack Development
 
 ---
 
@@ -266,13 +222,21 @@ Smart India Hackathon 2025 Project
 
 ---
 
+## 📞 Let's Connect!
+
+I'm always interested in discussing:
+- 🤖 AI/ML Project Opportunities
+- 📊 Data Science Collaborations
+- 🚀 Internship & Career Opportunities
+- 💡 Technical Discussions & Knowledge Sharing
+
 <div align="center">
 
 ### 🌟 *"Turning Data into Intelligence, Ideas into Impact"* 🌟
 
 **Let's build something amazing together!**
 
-[💌 Get in Touch](https://linkedin.com/in/pratik-bamane-48a974330) | [📂 Explore Projects](https://github.com/pratik-rahul-bamne?tab=repositories) | [📖 Check My Work](https://github.com/pratik-rahul-bamne?tab=stars)
+[💌 Get in Touch](https://linkedin.com/in/pratik-bamane-48a974330) | [📂 Explore Projects](https://github.com/pratik-rahul-bamne?tab=repositories) | [📖 Check My Work](https://github.com/pratik-rahul-bamne)
 
 ---
 
